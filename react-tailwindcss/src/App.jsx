@@ -37,7 +37,7 @@ export default function App(){
     </div>
     <div className="max-w-sm mx-auto flex p-6 bg-white rounded-lg shadow-xl">
      
-      <img src="https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png" alt="" className="h-12 w-12" />
+      <img src="https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png" alt="" className="h-70 w-100" />
       
       <div className="ml-6 pt-1">
         <h4 className="text-xl text-gray-900">Kavlium Store</h4>
